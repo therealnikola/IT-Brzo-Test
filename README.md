@@ -27,3 +27,5 @@ Otvori Unity Hub.
 Klikni na Add i izaberi folder sa projektom (projekat je podešen za rad u Unity-ju).
 
 Otvori scenu, pritisni Play i testiraj svoje IT znanje!
+
+<img width="1268" height="704" alt="image" src="https://github.com/user-attachments/assets/2c8c3d05-b07e-4ef1-912b-8d5a2a3ca7fe" />
